@@ -1,0 +1,16 @@
+{
+  "name": "candor",
+  "version": "0.0.1",
+  "description": "An anonymous chat client for employee feedback",
+  "main": "index.js",
+  "author": "Matt Hoy",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "4.13.4",
+    "socket.io": "^2.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
